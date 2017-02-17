@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "dolore",
+    "type": 3,
+    "cost": "$772.22",
+    "frequency": 2
+  },
+  {
+    "id": 2,
+    "name": "excepteur",
+    "type": 1,
+    "cost": "$410.81",
+    "frequency": 1
+  },
+  {
+    "id": 3,
+    "name": "magna",
+    "type": 2,
+    "cost": "$196.71",
+    "frequency": 5
+  },
+  {
+    "id": 4,
+    "name": "adipisicing",
+    "type": 1,
+    "cost": "$1,577.17",
+    "frequency": 7
+  },
+  {
+    "id": 5,
+    "name": "do",
+    "type": 2,
+    "cost": "$1,197.57",
+    "frequency": 9
+  },
+  {
+    "id": 6,
+    "name": "do",
+    "type": 1,
+    "cost": "$682.99",
+    "frequency": 7
+  },
+  {
+    "id": 7,
+    "name": "elit",
+    "type": 2,
+    "cost": "$315.23",
+    "frequency": 4
+  },
+  {
+    "id": 8,
+    "name": "cillum",
+    "type": 1,
+    "cost": "$2,338.73",
+    "frequency": 8
+  },
+  {
+    "id": 9,
+    "name": "Lorem",
+    "type": 1,
+    "cost": "$154.29",
+    "frequency": 4
+  },
+  {
+    "id": 10,
+    "name": "dolore",
+    "type": 1,
+    "cost": "$2,102.00",
+    "frequency": 10
+  },
+  {
+    "id": 11,
+    "name": "nostrud",
+    "type": 2,
+    "cost": "$1,996.21",
+    "frequency": 11
+  },
+  {
+    "id": 12,
+    "name": "irure",
+    "type": 2,
+    "cost": "$2,401.26",
+    "frequency": 1
+  },
+  {
+    "id": 13,
+    "name": "dolore",
+    "type": 1,
+    "cost": "$1,893.18",
+    "frequency": 8
+  },
+  {
+    "id": 14,
+    "name": "sint",
+    "type": 3,
+    "cost": "$670.88",
+    "frequency": 8
+  },
+  {
+    "id": 15,
+    "name": "exercitation",
+    "type": 2,
+    "cost": "$348.54",
+    "frequency": 3
+  },
+  {
+    "id": 16,
+    "name": "non",
+    "type": 3,
+    "cost": "$1,688.02",
+    "frequency": 11
+  },
+  {
+    "id": 17,
+    "name": "voluptate",
+    "type": 1,
+    "cost": "$1,709.89",
+    "frequency": 12
+  },
+  {
+    "id": 18,
+    "name": "non",
+    "type": 3,
+    "cost": "$95.85",
+    "frequency": 12
+  },
+  {
+    "id": 19,
+    "name": "dolore",
+    "type": 1,
+    "cost": "$390.74",
+    "frequency": 3
+  },
+  {
+    "id": 20,
+    "name": "nisi",
+    "type": 3,
+    "cost": "$475.84",
+    "frequency": 7
+  },
+  {
+    "id": 21,
+    "name": "exercitation",
+    "type": 2,
+    "cost": "$1,270.22",
+    "frequency": 3
+  },
+  {
+    "id": 22,
+    "name": "id",
+    "type": 2,
+    "cost": "$1,580.42",
+    "frequency": 7
+  },
+  {
+    "id": 23,
+    "name": "dolore",
+    "type": 2,
+    "cost": "$2,429.94",
+    "frequency": 9
+  },
+  {
+    "id": 24,
+    "name": "dolor",
+    "type": 1,
+    "cost": "$1,758.83",
+    "frequency": 8
+  },
+  {
+    "id": 25,
+    "name": "eu",
+    "type": 3,
+    "cost": "$985.00",
+    "frequency": 1
+  },
+  {
+    "id": 26,
+    "name": "laboris",
+    "type": 1,
+    "cost": "$19.97",
+    "frequency": 12
+  },
+  {
+    "id": 27,
+    "name": "ad",
+    "type": 1,
+    "cost": "$1,458.97",
+    "frequency": 10
+  },
+  {
+    "id": 28,
+    "name": "elit",
+    "type": 2,
+    "cost": "$1,889.54",
+    "frequency": 8
+  },
+  {
+    "id": 29,
+    "name": "occaecat",
+    "type": 1,
+    "cost": "$2,095.88",
+    "frequency": 3
+  },
+  {
+    "id": 30,
+    "name": "fugiat",
+    "type": 2,
+    "cost": "$1,061.19",
+    "frequency": 2
+  },
+  {
+    "id": 31,
+    "name": "anim",
+    "type": 1,
+    "cost": "$911.09",
+    "frequency": 4
+  },
+  {
+    "id": 32,
+    "name": "sunt",
+    "type": 2,
+    "cost": "$473.36",
+    "frequency": 7
+  },
+  {
+    "id": 33,
+    "name": "commodo",
+    "type": 1,
+    "cost": "$1,314.19",
+    "frequency": 9
+  },
+  {
+    "id": 34,
+    "name": "laborum",
+    "type": 1,
+    "cost": "$2,438.68",
+    "frequency": 1
+  },
+  {
+    "id": 35,
+    "name": "ad",
+    "type": 1,
+    "cost": "$1,394.53",
+    "frequency": 6
+  },
+  {
+    "id": 36,
+    "name": "ex",
+    "type": 2,
+    "cost": "$211.42",
+    "frequency": 10
+  },
+  {
+    "id": 37,
+    "name": "laboris",
+    "type": 3,
+    "cost": "$1,363.91",
+    "frequency": 10
+  },
+  {
+    "id": 38,
+    "name": "culpa",
+    "type": 3,
+    "cost": "$853.55",
+    "frequency": 8
+  },
+  {
+    "id": 39,
+    "name": "deserunt",
+    "type": 2,
+    "cost": "$1,007.72",
+    "frequency": 10
+  },
+  {
+    "id": 40,
+    "name": "veniam",
+    "type": 2,
+    "cost": "$1,084.88",
+    "frequency": 2
+  },
+  {
+    "id": 41,
+    "name": "consectetur",
+    "type": 2,
+    "cost": "$1,611.79",
+    "frequency": 5
+  },
+  {
+    "id": 42,
+    "name": "qui",
+    "type": 3,
+    "cost": "$1,725.42",
+    "frequency": 9
+  },
+  {
+    "id": 43,
+    "name": "adipisicing",
+    "type": 1,
+    "cost": "$992.29",
+    "frequency": 10
+  },
+  {
+    "id": 44,
+    "name": "ex",
+    "type": 3,
+    "cost": "$784.73",
+    "frequency": 3
+  },
+  {
+    "id": 45,
+    "name": "cupidatat",
+    "type": 1,
+    "cost": "$932.25",
+    "frequency": 10
+  },
+  {
+    "id": 46,
+    "name": "sint",
+    "type": 1,
+    "cost": "$1,223.27",
+    "frequency": 8
+  },
+  {
+    "id": 47,
+    "name": "officia",
+    "type": 1,
+    "cost": "$811.52",
+    "frequency": 4
+  },
+  {
+    "id": 48,
+    "name": "ex",
+    "type": 2,
+    "cost": "$2,268.42",
+    "frequency": 3
+  },
+  {
+    "id": 49,
+    "name": "anim",
+    "type": 2,
+    "cost": "$1,794.40",
+    "frequency": 12
+  },
+  {
+    "id": 50,
+    "name": "qui",
+    "type": 2,
+    "cost": "$1,828.04",
+    "frequency": 9
+  },
+  {
+    "id": 51,
+    "name": "eu",
+    "type": 1,
+    "cost": "$2,417.53",
+    "frequency": 10
+  },
+  {
+    "id": 52,
+    "name": "cillum",
+    "type": 3,
+    "cost": "$2,010.52",
+    "frequency": 4
+  },
+  {
+    "id": 53,
+    "name": "esse",
+    "type": 1,
+    "cost": "$265.19",
+    "frequency": 2
+  },
+  {
+    "id": 54,
+    "name": "elit",
+    "type": 2,
+    "cost": "$981.67",
+    "frequency": 4
+  },
+  {
+    "id": 55,
+    "name": "tempor",
+    "type": 3,
+    "cost": "$1,098.72",
+    "frequency": 7
+  },
+  {
+    "id": 56,
+    "name": "duis",
+    "type": 2,
+    "cost": "$1,209.87",
+    "frequency": 2
+  },
+  {
+    "id": 57,
+    "name": "id",
+    "type": 3,
+    "cost": "$106.35",
+    "frequency": 5
+  },
+  {
+    "id": 58,
+    "name": "qui",
+    "type": 3,
+    "cost": "$1,886.95",
+    "frequency": 2
+  },
+  {
+    "id": 59,
+    "name": "ullamco",
+    "type": 1,
+    "cost": "$1,790.18",
+    "frequency": 10
+  },
+  {
+    "id": 60,
+    "name": "proident",
+    "type": 1,
+    "cost": "$566.31",
+    "frequency": 8
+  },
+  {
+    "id": 61,
+    "name": "pariatur",
+    "type": 3,
+    "cost": "$607.27",
+    "frequency": 12
+  },
+  {
+    "id": 62,
+    "name": "cillum",
+    "type": 3,
+    "cost": "$658.98",
+    "frequency": 12
+  },
+  {
+    "id": 63,
+    "name": "consequat",
+    "type": 3,
+    "cost": "$1,128.75",
+    "frequency": 10
+  },
+  {
+    "id": 64,
+    "name": "elit",
+    "type": 2,
+    "cost": "$1,644.13",
+    "frequency": 1
+  },
+  {
+    "id": 65,
+    "name": "sint",
+    "type": 2,
+    "cost": "$1,879.03",
+    "frequency": 1
+  },
+  {
+    "id": 66,
+    "name": "esse",
+    "type": 2,
+    "cost": "$1,033.47",
+    "frequency": 1
+  },
+  {
+    "id": 67,
+    "name": "occaecat",
+    "type": 3,
+    "cost": "$364.70",
+    "frequency": 4
+  },
+  {
+    "id": 68,
+    "name": "commodo",
+    "type": 1,
+    "cost": "$344.52",
+    "frequency": 3
+  },
+  {
+    "id": 69,
+    "name": "ad",
+    "type": 1,
+    "cost": "$1,981.10",
+    "frequency": 7
+  },
+  {
+    "id": 70,
+    "name": "minim",
+    "type": 3,
+    "cost": "$958.93",
+    "frequency": 6
+  },
+  {
+    "id": 71,
+    "name": "proident",
+    "type": 1,
+    "cost": "$2,339.15",
+    "frequency": 10
+  },
+  {
+    "id": 72,
+    "name": "exercitation",
+    "type": 3,
+    "cost": "$727.06",
+    "frequency": 9
+  },
+  {
+    "id": 73,
+    "name": "deserunt",
+    "type": 1,
+    "cost": "$1,965.53",
+    "frequency": 11
+  },
+  {
+    "id": 74,
+    "name": "dolore",
+    "type": 2,
+    "cost": "$2,051.43",
+    "frequency": 2
+  },
+  {
+    "id": 75,
+    "name": "et",
+    "type": 1,
+    "cost": "$2,397.46",
+    "frequency": 8
+  },
+  {
+    "id": 76,
+    "name": "qui",
+    "type": 1,
+    "cost": "$2,451.29",
+    "frequency": 3
+  },
+  {
+    "id": 77,
+    "name": "in",
+    "type": 2,
+    "cost": "$2,010.19",
+    "frequency": 8
+  },
+  {
+    "id": 78,
+    "name": "excepteur",
+    "type": 1,
+    "cost": "$2,458.93",
+    "frequency": 12
+  },
+  {
+    "id": 79,
+    "name": "ex",
+    "type": 2,
+    "cost": "$1,705.32",
+    "frequency": 12
+  },
+  {
+    "id": 80,
+    "name": "aliqua",
+    "type": 3,
+    "cost": "$662.49",
+    "frequency": 7
+  },
+  {
+    "id": 81,
+    "name": "do",
+    "type": 2,
+    "cost": "$156.03",
+    "frequency": 9
+  },
+  {
+    "id": 82,
+    "name": "et",
+    "type": 1,
+    "cost": "$10.17",
+    "frequency": 9
+  },
+  {
+    "id": 83,
+    "name": "voluptate",
+    "type": 2,
+    "cost": "$445.10",
+    "frequency": 11
+  },
+  {
+    "id": 84,
+    "name": "exercitation",
+    "type": 1,
+    "cost": "$1,563.28",
+    "frequency": 7
+  },
+  {
+    "id": 85,
+    "name": "qui",
+    "type": 2,
+    "cost": "$855.99",
+    "frequency": 6
+  },
+  {
+    "id": 86,
+    "name": "minim",
+    "type": 3,
+    "cost": "$289.15",
+    "frequency": 11
+  },
+  {
+    "id": 87,
+    "name": "quis",
+    "type": 2,
+    "cost": "$135.98",
+    "frequency": 8
+  },
+  {
+    "id": 88,
+    "name": "laboris",
+    "type": 3,
+    "cost": "$921.13",
+    "frequency": 9
+  },
+  {
+    "id": 89,
+    "name": "officia",
+    "type": 2,
+    "cost": "$1,867.63",
+    "frequency": 4
+  },
+  {
+    "id": 90,
+    "name": "mollit",
+    "type": 2,
+    "cost": "$2,359.86",
+    "frequency": 6
+  },
+  {
+    "id": 91,
+    "name": "irure",
+    "type": 1,
+    "cost": "$1,776.82",
+    "frequency": 2
+  },
+  {
+    "id": 92,
+    "name": "elit",
+    "type": 2,
+    "cost": "$1,591.23",
+    "frequency": 6
+  },
+  {
+    "id": 93,
+    "name": "velit",
+    "type": 3,
+    "cost": "$936.72",
+    "frequency": 12
+  },
+  {
+    "id": 94,
+    "name": "aliquip",
+    "type": 1,
+    "cost": "$2,064.81",
+    "frequency": 9
+  },
+  {
+    "id": 95,
+    "name": "quis",
+    "type": 3,
+    "cost": "$709.34",
+    "frequency": 7
+  },
+  {
+    "id": 96,
+    "name": "excepteur",
+    "type": 3,
+    "cost": "$63.37",
+    "frequency": 12
+  },
+  {
+    "id": 97,
+    "name": "proident",
+    "type": 3,
+    "cost": "$1,273.60",
+    "frequency": 10
+  },
+  {
+    "id": 98,
+    "name": "ipsum",
+    "type": 2,
+    "cost": "$1,129.05",
+    "frequency": 4
+  },
+  {
+    "id": 99,
+    "name": "culpa",
+    "type": 2,
+    "cost": "$1,935.93",
+    "frequency": 8
+  },
+  {
+    "id": 100,
+    "name": "proident",
+    "type": 2,
+    "cost": "$2,082.80",
+    "frequency": 3
+  }
+]
